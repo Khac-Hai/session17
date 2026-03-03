@@ -1,4 +1,4 @@
-package bai2;
+package session17.bai2;
 
 import java.sql.SQLException;
 import java.util.Scanner;

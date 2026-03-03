@@ -1,4 +1,4 @@
-package bai3;
+package session17.bai3;
 
 public class Book {
     private int id;

@@ -1,4 +1,4 @@
-package bai2;
+package session17.bai1;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

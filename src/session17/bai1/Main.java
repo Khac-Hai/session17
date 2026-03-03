@@ -1,4 +1,4 @@
-package bai1;
+package session17.bai1;
 
 import java.util.Scanner;
 
